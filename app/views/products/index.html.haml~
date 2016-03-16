@@ -13,7 +13,6 @@
       %th
       %th
       %th
-
   %tbody
     - @products.each do |product|
       %tr
